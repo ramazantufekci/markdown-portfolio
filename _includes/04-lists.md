@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Tarık Bin Ziyad
+- Sanal kale
+- A dan Z ye PHP
